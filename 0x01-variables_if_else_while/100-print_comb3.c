@@ -15,7 +15,7 @@ if (m != n && m > n)
 {
 putchar('0' + n);
 putchar('0' + m);
-if(n >= 0 && n <= 7)
+if (n >= 0 && n <= 7)
 {
 putchar(',');
 putchar(' ');
